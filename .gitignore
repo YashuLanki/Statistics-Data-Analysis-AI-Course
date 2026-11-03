@@ -1,0 +1,17 @@
+.venv/
+.idea/
+.DS_Store
+.remember/
+__pycache__/
+.ipynb_checkpoints/
+~$*.doc*
+*.pyc
+*Assignment*.docx
+script.md
+CLAUDE.md
+*.zip
+*.mp4
+*.mov
+*.pdf
+Course_textbook/
+*_recorded.pptx
